@@ -42,3 +42,4 @@ This class teaches you how to build your first app for Android Things. You will 
 Before you start this class, download and install [Android Studio](https://developer.android.google.cn/studio/index.html) and the [system image](https://partner.android.com/things/console) for your development board.
 
 在你开始阅读这一部分内容之前，请确保你已经下载并安装 [Android Studio](https://developer.android.google.cn/studio/index.html)，同时也请确保你已经在你的开发板上下载并安装了[系统镜像](https://partner.android.com/things/console)
+
